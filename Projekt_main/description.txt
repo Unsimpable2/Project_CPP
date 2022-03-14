@@ -1,0 +1,33 @@
+
+Each class has a basic/special attack and different ability.
+Special ability and special attack can be used once per fight!
+
+----------------Warrior----------------
+Stats:
+	HP: 300
+	Attack: 25
+	Stamina: 50
+	Armor: 30
+	Dodge Stamina Cost: 15
+	Basic Attack Stamina Cost: 15
+	Special Attacj Stanina Cost: 25
+
+Special Ability: Battle Cry
+	Gain 10 attack points and losing 10 armor points. (reset after fight)
+
+Rest will gain you 20 stamina point and 15 hp points.
+
+----------------Shadow-----------------
+Stats:
+	HP: 300
+	Attack: 20
+	Stamina: 70
+	Armor: 15
+	Dodge Stamina Cost: 10
+	Basic Attack Stamina Cost: 10
+	Special Attacj Stanina Cost: 25
+
+Special Ability: Shadow Step
+	Gain 5 armor points and losing 10 stamina points. (reset after fight)
+
+Rest will gain you 15 stamina point and 15 hp points.
